@@ -1,0 +1,671 @@
+Tag,Label
+3249,Taxonomy2 § Demographic § Children § Pre-school
+3250,Taxonomy2 § Demographic § Children § School-age
+3558,Taxonomy2 § Interests § Auto
+3570,Taxonomy2 § Interests § Current Affairs
+3586,Taxonomy2 § Interests § Current Affairs § Politics
+3588,Taxonomy2 § Interests § Entertainment § Art
+3594,Taxonomy2 § Interests § Entertainment § Art § Museum
+3601,Taxonomy2 § Interests § Entertainment § Concerts § Gig
+3602,Taxonomy2 § Interests § Entertainment § Cooking
+3605,Taxonomy2 § Interests § Entertainment § Film § Channel § Cinema
+3628,Taxonomy2 § Interests § Entertainment § Books
+3632,Taxonomy2 § Interests § Entertainment § Music
+3647,Taxonomy2 § Interests § Entertainment § Newspapers
+3652,Taxonomy2 § Interests § Entertainment § Nightlife § Pubs/Bars
+3654,Taxonomy2 § Interests § Entertainment § Theatre
+3661,Taxonomy2 § Interests § Entertainment § TV
+3684,Taxonomy2 § Interests § Family
+3685,Taxonomy2 § Interests § Fashion
+3732,Taxonomy2 § Interests § Health & Wellbeing § Fitness
+3747,Taxonomy2 § Interests § Outdoor Activities § Hiking
+3759,Taxonomy2 § Interests § Shopping
+3910,Taxonomy2 § Interests § Sport
+3932,Taxonomy2 § Interests § Sport § Football
+3953,Taxonomy2 § Interests § Sport § Water Sports § Surfing
+3971,Taxonomy2 § Interests § Travel
+4096,Taxonomy2 § Intent  § Purchase § Automotive
+4118,Taxonomy2 § Intent  § Purchase § Clothing & Accessories
+4168,Taxonomy2 § Intent  § Purchase § Jewelry & Watches
+4193,Taxonomy2 § Intent  § Purchase § Technology § Cell Phone & PDA § Brand § Apple
+4200,Taxonomy2 § Intent  § Purchase § Technology § Computer
+4210,Taxonomy2 § Intent  § Purchase § Technology § Consumer Electronics § TV
+4224,Taxonomy2 § Intent  § Purchase § Travel
+4255,Taxonomy2 § Intent  § Purchase § Travel § Air Travel
+4485,Taxonomy2 § Interests § Technology § Computers
+4523,Taxonomy3 § Content § Sections
+4530,Taxonomy2 § Interests § Technology § Computers § Use § Gaming
+4632,Taxonomy2 § Interests § Food
+4730,Taxonomy2 § Interests § Entertainment § Magazines
+4937,Taxonomy2 § Interests § Food & Drink
+4955,Taxonomy2 § Intent  § Purchase § Food & Drink § Dining Out
+4962,Taxonomy2 § Intent  § Purchase § Tickets § Gig
+5553,Taxonomy2 § Interests § Technology § Computers § Type § iPad
+5603,Taxonomy2 § Interests § Technology § Computers § Type § Laptop
+5604,Taxonomy2 § Intent  § Purchase § Technology § Computer § iPad
+5624,Taxonomy2 § segments § DFP § Travel § Family Travellers
+5625,Taxonomy2 § segments § DFP § Entertainment § Magazine Buyers
+5626,Taxonomy2 § segments § DFP § Entertainment § Video Gamers
+5627,Taxonomy2 § segments § DFP § Entertainment § Football Enthusiasts
+5633,Taxonomy2 § segments § DFP § Health & Wellbeing § Good Living Gurus
+5635,Taxonomy2 § segments § DFP § Entertainment § Art Lovers
+5636,Taxonomy2 § segments § DFP § Entertainment § Movie Enthusiasts
+5637,Taxonomy2 § segments § DFP § Entertainment § Music Enthusiasts
+5638,Taxonomy2 § segments § DFP § Entertainment § Nightlife Enthusiasts
+5641,Taxonomy2 § segments § DFP § Clothing & Apparel Buyers § Apparel Buyers
+5643,Taxonomy2 § segments § DFP § Entertainment § TV Enthusiasts
+5644,Taxonomy2 § segments § DFP § Entertainment § Readers
+5661,Taxonomy2 § segments § DFP § Auto § Auto Enthusiasts
+5677,Taxonomy2 § segments § DFP § Travel § Frequent Travellers
+5679,Taxonomy2 § segments § DFP § Technology § Home Entertainment Buyers
+5680,Taxonomy2 § segments § DFP § Technology § TV Buyers
+5681,Taxonomy2 § segments § DFP § Technology § Laptop Buyers
+5683,Taxonomy2 § segments § DFP § Technology § Gadget Lovers
+5702,Taxonomy2 § segments § DFP § Beauty § Beauty Buyers
+5706,Taxonomy2 § segments § DFP § Health & Wellbeing § Spa Lovers
+5717,Taxonomy2 § segments § DFP § Food & Drink § Fine Diners
+5719,Taxonomy2 § segments § DFP § Food & Drink § Food Enthusiasts
+5720,Taxonomy2 § segments § DFP § Entertainment § News Enthusiasts
+5721,Taxonomy2 § segments § DFP § Technology § Computer Enthusiasts
+5725,Taxonomy2 § segments § DFP § Entertainment § Cinema Goers
+5743,Taxonomy2 § segments § DFP § Entertainment § Social Networkers
+5760,Taxonomy2 § segments § DFP § Travel § Cultural Travellers
+5761,Taxonomy2 § segments § DFP § Entertainment § Sports Enthusiasts
+5764,Taxonomy2 § segments § DFP § Entertainment § Fashion Enthusiasts
+5765,Taxonomy2 § segments § DFP § Technology § Mac Users
+5771,Taxonomy2 § segments § DFP § Clothing & Apparel Buyers § Jewelry & Watch Buyers
+5773,Taxonomy2 § Intent  § Purchase § Health & Wellbeing § Spa Treatment
+6048,Taxonomy3 § Content § keyword
+6241,Taxonomy2 § segments § DFP § Entertainment § Shopping Enthusiasts
+6243,Taxonomy2 § segments § DFP § Influencers § Travel Influencer
+6244,Taxonomy2 § segments § DFP § Influencers § Music Influencer
+6245,Taxonomy2 § segments § DFP § Influencers § Movies Influencer
+6246,Taxonomy2 § segments § DFP § Influencers § Gaming Influencer
+6247,Taxonomy2 § segments § DFP § Influencers § Auto Influencer
+6248,Taxonomy2 § segments § DFP § Influencers § Technology Influencer
+6249,Taxonomy2 § segments § DFP § Influencers § Food Influencer
+6250,Taxonomy2 § segments § DFP § Influencers § Fashion Influencer
+6252,Taxonomy2 § segments § DFP § Influencers § Business Influencer
+6254,Taxonomy2 § segments § DFP § Influencers § Political Influencer
+6255,Taxonomy2 § segments § DFP § Influencers § Sports Influencers
+9268,Taxonomy3 § Content § NYTNewsletters § Books Update
+9271,Taxonomy3 § Content § NYTNewsletters § Great Getaways
+9273,Taxonomy3 § Content § NYTNewsletters § Movies Update
+9276,Taxonomy3 § Content § NYTNewsletters § Sophisticated Shopper
+9278,Taxonomy3 § Content § NYTNewsletters § Tech Update
+9279,Taxonomy3 § Content § NYTNewsletters § Ticket Watch
+9410,Taxonomy4 § Demographics § Gender § Male
+9411,Taxonomy4 § Demographics § Gender § Female
+9413,Taxonomy4 § Demographics § Age § Other Age
+9414,Taxonomy4 § Demographics § Age § 18 to 20
+9415,Taxonomy4 § Demographics § Age § 21 to 24
+9417,Taxonomy4 § Demographics § Children § No Children
+9418,Taxonomy4 § Demographics § Children § Has Children
+9419,Taxonomy4 § Demographics § Children § 0-4 Years
+9420,Taxonomy4 § Demographics § Children § 5-11 Years
+9421,Taxonomy4 § Demographics § Children § 12-16 Years
+9422,Taxonomy4 § Demographics § Children § Expecting
+9424,Taxonomy4 § Demographics § Employment § Employed
+9425,Taxonomy4 § Demographics § Employment § Executive
+9426,Taxonomy4 § Demographics § Employment § Managerial
+9428,Taxonomy4 § Demographics § Employment § Professional
+9429,Taxonomy4 § Demographics § Employment § Retired
+9430,Taxonomy4 § Demographics § Employment § Self-Employed
+9431,Taxonomy4 § Demographics § Employment § Student
+9432,Taxonomy4 § Demographics § Employment § Unemployed
+9439,Taxonomy4 § Demographics § Relationship Status § Co-habiting
+9440,Taxonomy4 § Demographics § Relationship Status § Married
+9441,Taxonomy4 § Demographics § Relationship Status § Single
+9447,Taxonomy4 § Retail & Consumer Goods § Electronics § Interest § Gadgets
+9449,Taxonomy4 § Retail & Consumer Goods § Electronics § Interest § Laptop
+9458,Taxonomy4 § Entertainment § Interest § Tickets § Cinema
+9461,Taxonomy4 § Entertainment § Interest § Gambling
+9463,Taxonomy4 § Entertainment § Interest § Media § Books
+9464,Taxonomy4 § Entertainment § Interest § Media § Music
+9466,Taxonomy4 § Entertainment § Interest § Tickets § Concert
+9467,Taxonomy4 § Entertainment § Interest § Tickets § Theatre
+9468,Taxonomy4 § Entertainment § Interest § Tickets § Sports Events
+9471,Taxonomy4 § Entertainment § Interest § Video Games
+9472,Taxonomy4 § Entertainment §  Video Game § Console User
+9483,Taxonomy4 § Entertainment § Video Game § Quiz and Puzzle Games
+9504,Taxonomy4 § Finance § Interest § Insurance § Auto Insurance
+9511,Taxonomy4 § Entertainment §  Sport § Winter Sports
+9572,Taxonomy4 § Entertainment § Online § Movie Downloads
+9573,Taxonomy3 § Retired Segments § Internet and TV § Internet § Use § Streamed Media Watcher
+9574,Taxonomy4 § Entertainment § Online § Social Networks
+9582,Taxonomy4 § Lifestyle § TV Enthusiast
+9629,Taxonomy3 § Retired Segments § FMCG/Retail § Online § Online Shopper
+9631,Taxonomy4 § Retail & Consumer Goods § Clothes § Interest § Purchase
+9632,Taxonomy4 § Retail & Consumer Goods § Clothes § Interest § Online Purchase
+9639,Taxonomy4 § Retail & Consumer Goods § Clothes § Fashion Style § Outdoor
+9656,Taxonomy4 § Retail & Consumer Goods § Interest § Jewelry
+9657,Taxonomy4 § Retail & Consumer Goods § Interest § Watches
+9663,Taxonomy3 § Retired Segments § Food § Online Food Buyer
+9689,Taxonomy4 § Travel § Accomodation § Type § Hotel Intender
+9690,Taxonomy4 § Travel § Accomodation § Type § Villa Intender
+9697,Taxonomy4 § Travel § Accomodation § Type § Villa Stayer
+9699,Taxonomy4 § Travel § Interest § Vacations
+9701,Taxonomy4 § Travel § Interest § Flights § First Class
+9702,Taxonomy4 § Travel § Interest § Flights § Business Class
+9703,Taxonomy4 § Travel § Interest § Flights § Premium Economy Class
+9704,Taxonomy4 § Travel § Interest § Flights § Economy Class
+9715,Taxonomy3 § Retired Segments § Internet and TV § TV § Genre § Drama and Soaps TV Watcher
+9716,Taxonomy3 § Retired Segments § Internet and TV § TV § Genre § Entertainment TV Watcher
+9717,Taxonomy4 § Entertainment § TV § Factual
+9718,Taxonomy3 § Retired Segments § Internet and TV § TV § Genre § Children and Family TV Watcher
+9719,Taxonomy4 § Entertainment § Magazines § Lifestyle and Leisure
+9720,Taxonomy3 § Retired Segments § Internet and TV § TV § Genre § Music TV Watcher
+9721,Taxonomy3 § Retired Segments § Internet and TV § TV § Genre § News & Current Affairs TV Watcher
+9722,Taxonomy3 § Retired Segments § Internet and TV § TV § Genre § Sports TV Watcher
+9724,Taxonomy4 § Travel § Destination § Domestic Holiday Taker
+9725,Taxonomy4 § Travel § Destination § Foreign Holiday Taker
+9726,Taxonomy4 § Travel § Destination § Domestic Holiday Intender
+9727,Taxonomy4 § Travel § Destination § Foreign Holiday Intender
+9740,Taxonomy4 § Travel § Vacation § Package Holiday Intender
+9741,Taxonomy4 § Travel § Vacation § Winter Sports Holiday Intender
+9742,Taxonomy4 § Travel § Vacation § Cruise Intender
+9743,Taxonomy4 § Travel § Vacation § City Break Intender
+9744,Taxonomy4 § Travel § Vacation § Spa Break Intender
+9745,Taxonomy4 § Travel § Vacation § Theme Park Holiday Intender
+9748,Taxonomy4 § Travel § Vacation § Type § Winter Sports Holiday Taker
+9749,Taxonomy4 § Travel § Vacation § Type § Cruise Taker
+9750,Taxonomy4 § Travel § Vacation § Type § City Break Taker
+9751,Taxonomy4 § Travel § Vacation § Type § Spa Break Taker
+9752,Taxonomy4 § Travel § Vacation § Type § Theme Park Holiday Taker
+9757,Taxonomy4 § Demographics § Age § 25 to 29
+9758,Taxonomy4 § Demographics § Age § 30 to 34
+9759,Taxonomy4 § Demographics § Age § 35 to 39
+9760,Taxonomy4 § Demographics § Age § 40 to 44
+9761,Taxonomy4 § Demographics § Age § 45 to 49
+9762,Taxonomy4 § Demographics § Age § 50 to 54
+9763,Taxonomy4 § Demographics § Age § 55 to 59
+9764,Taxonomy4 § Demographics § Age § 60 to 64
+9765,Taxonomy4 § Demographics § Age § 65+
+9771,Taxonomy4 § Retail & Consumer Goods § Mobile § Interest § Device Upgrade
+9780,Taxonomy2 § Interests § Craft
+9837,Taxonomy3 § Retired Segments § Tablet § Tablet Intender
+9840,Taxonomy4 § Entertainment § Online § Dating
+9849,Taxonomy4 § Demographics § Relationship Status § Divorced
+9850,Taxonomy4 § Demographics § Relationship Status § Widowed
+9875,Taxonomy4 § Retail & Consumer Goods § Electronics § Interest § Online Purchasing
+9876,Taxonomy4 § Entertainment § Online § Movie Renting
+9877,Taxonomy4 § Entertainment § Online § Betting
+9879,Taxonomy4 § Entertainment § Online § Auctions
+9881,Taxonomy4 § Retail & Consumer Goods § Cosmetics § Online Cosmetics
+9882,Taxonomy4 § Retail & Consumer Goods § Interest § Cosmetics
+9886,Taxonomy4 § Entertainment §  Video Game § Online Games Buyer
+9888,Taxonomy4 § Travel § Interest § Online Purchase
+9898,Taxonomy4 § Entertainment § Online § Music Downloads
+9899,Taxonomy4 § Entertainment § Interest § Media § E-Books
+9900,Taxonomy4 § Entertainment § Interest § Media § DVDs
+9901,Taxonomy4 § Entertainment § Interest § Media § Radio
+9908,Taxonomy4 § Retail & Consumer Goods § Interest § DIY
+9924,Taxonomy4 § Retail & Consumer Goods § Mobile § Interest § Mobile Phone
+10153,Taxonomy4 § Demographics § Children § 16+ Years
+10157,Taxonomy4 § Demographics § Relationship Status § In a Relationship
+10175,Taxonomy4 § Entertainment § Interest § Media § Magazines
+10176,Taxonomy4 § Entertainment § Interest § Tickets § Club
+10177,Taxonomy4 § Entertainment § Interest § Tickets § Museum and Gallery
+10178,Taxonomy4 § Retail & Consumer Goods § Interest § Gardening
+10183,Taxonomy3 § Retired Segments § FMCG/Retail § Computer Intender
+10184,Taxonomy4 § Auto § Car Intender
+10189,Taxonomy4 § Travel § Vacation § Type § Camping Holiday Taker
+10193,Taxonomy5 § Big5 § Extraversion
+10194,Taxonomy5 § Big5 § Openness
+10195,Taxonomy5 § Big5 § Neuroticism
+10196,Taxonomy5 § Big5 § Agreeableness
+10197,Taxonomy5 § Big5 § Conscientiousness
+10198,Taxonomy5 § Big5 § Extraversion § Extravert
+10199,Taxonomy5 § Big5 § Extraversion § Introvert
+10200,Taxonomy5 § Big5 § Openness § Open
+10201,Taxonomy5 § Big5 § Openness § Closed
+10204,Taxonomy5 § Editorial Segments § General § Trendsetter
+10206,Taxonomy5 § Editorial Segments § General § Adventurous Spirit
+10207,Taxonomy5 § Editorial Segments § General § Lifestylist
+10208,Taxonomy5 § Editorial Segments § General § Bright Spark
+10209,Taxonomy5 § Editorial Segments § General § Culture Vulture
+10211,Taxonomy5 § Big5extended § Style of Interests Spirit § Harmonizer
+10212,Taxonomy5 § Big5extended § Style of Interests Spirit § Seeker
+10213,Taxonomy5 § Big5extended § Style of Interests Spirit § Striver
+10214,Taxonomy5 § Big5extended § Style of Interests Spirit § Energizer
+10215,Taxonomy5 § Big5 § Agreeableness § Cold
+10216,Taxonomy5 § Big5 § Agreeableness § Lovable
+10217,Taxonomy5 § Big5 § Conscientiousness § Careless
+10218,Taxonomy5 § Big5 § Conscientiousness § Organised
+10219,Taxonomy5 § Big5 § Neuroticism § Neurotic
+10220,Taxonomy5 § Big5 § Neuroticism § Stable
+10244,Taxonomy4 § Travel § Vacation § Camping Holiday Intender
+10245,Taxonomy4 § Travel § Interest § Accommodation § Holiday w. Friends
+10252,Taxonomy3 § Retired Segments § Online Gamer
+10253,Taxonomy3 § Retired Segments § Tablet § Tablet User
+10254,Taxonomy3 § Retired Segments § Internet and TV § Internet § Use § Streamed Media Listener
+10260,Taxonomy3 § Retired Segments § Internet and TV § TV § Purchase  § TV Intender
+10287,Taxonomy4 § Entertainment § Online § News
+10288,Taxonomy3 § Retired Segments § Internet and TV § Internet § Use § Online Photosharer
+10289,Taxonomy4 § Entertainment § Online § Sports
+10293,Taxonomy4 § Entertainment § Interest § Media § Newspapers
+10294,Taxonomy3 § Retired Segments § Home & Garden § Shopping § Home Appliances Buyer
+10306,Taxonomy4 § Entertainment § Interest § Tickets § Gym
+10312,Taxonomy4 § Retail & Consumer Goods § Electronics § Frequent Computer User
+10315,Taxonomy3 § Retired Segments § Internet and TV § TV § Genre § Drama and Soaps TV Watcher § Drama TV Watcher
+10316,Taxonomy3 § Retired Segments § Internet and TV § TV § Genre § Drama and Soaps TV Watcher § Soap TV Watcher
+10317,Taxonomy3 § Retired Segments § Internet and TV § TV § Genre § Drama and Soaps TV Watcher § Period Drama TV Watcher
+10318,Taxonomy3 § Retired Segments § Internet and TV § TV § Genre § Entertainment TV Watcher § Reality TV Watcher
+10319,Taxonomy3 § Retired Segments § Internet and TV § TV § Genre § Entertainment TV Watcher § Comedy TV Watcher
+10320,Taxonomy3 § Retired Segments § Internet and TV § TV § Genre § Entertainment TV Watcher § Talk Show TV Watcher
+10321,Taxonomy4 § Travel § Vacation § Type § Beach Holiday Taker
+10327,Taxonomy4 § Travel § Interest § Accommodation § Hostel
+10328,Taxonomy4 § Travel § Interest § Accommodation § Private Home
+10329,Taxonomy4 § Travel § Interest § Accommodation § Resort
+10330,Taxonomy4 § Travel § Interest § Accommodation § B & B
+10331,Taxonomy4 § Travel § Interest § Accommodation § Motel
+10332,Taxonomy4 § Travel § Interest § Accommodation § Chalet
+10336,Taxonomy4 § Entertainment § Online § Chat
+10350,Taxonomy5 § Personality Axes § Active
+10355,Taxonomy5 § Personality Axes § Passive
+10476,Taxonomy4 § Entertainment § Sport § Football
+10478,Taxonomy4 § Entertainment § Sport § Outdoor
+10480,Taxonomy4 § Entertainment § Sport § Running
+10481,Taxonomy4 § Entertainment § Sport § Gym
+10483,Taxonomy4 § Demographics § Education § Other
+10484,Taxonomy4 § Demographics § Education § Secondary or High School
+10485,Taxonomy4 § Demographics § Education § Vocational
+10486,Taxonomy4 § Demographics § Education § University
+10487,Taxonomy4 § Demographics § Education § Masters
+10489,Taxonomy4 § Lifestyle § Celebrity Enthusiast
+10490,Taxonomy4 § Lifestyle § Food Enthusiast
+10491,Taxonomy4 § Retail & Consumer Goods § Shopping Enthusiast
+10492,Taxonomy4 § Lifestyle § Health & Wellbeing Enthusiast
+10493,Taxonomy4 § Lifestyle § News & Politics Enthusiast
+10496,Taxonomy4 § Lifestyle § Fashion Enthusiast
+10498,Taxonomy4 § Entertainment § Sports Enthusiast
+10503,Taxonomy4 § Lifestyle § Family Oriented
+10504,Taxonomy3 § Retired Segments § Internet and TV § TV § Genre § Entertainment TV Watcher § Game Show TV Watcher
+10511,VisualDNA § Auto § Motorcycle Owner
+10567,Taxonomy4 § Brand § Online Store § Google Play
+10577,Taxonomy4 § Brand § Online Store § Apple iTunes
+10580,Taxonomy4 § Brand § Streamed Media § Amazon Prime
+10581,Taxonomy4 § Brand § Streamed Media § Netflix
+10604,Taxonomy4 § Brand § Online Store § Amazon
+10629,Taxonomy4 § Entertainment § Magazines § Womens
+10630,Taxonomy4 § Entertainment § Magazines § Mens
+10631,Taxonomy4 § Entertainment § Magazines § Politics
+10632,Taxonomy4 § Entertainment § Magazines § Science
+10634,Taxonomy4 § Entertainment § Magazines § Fashion
+10635,Taxonomy4 § Entertainment § Magazines § Consumer-Focused
+10636,Taxonomy4 § Entertainment § Magazines § Senior-Focused
+10637,Taxonomy4 § Entertainment § Magazines § Celebrity
+10639,Taxonomy4 § Entertainment §  Magazines § Food & Wine
+10640,Taxonomy4 § Entertainment § Magazines § Literary and Arts
+10641,Taxonomy3 § Retired Segments § Games Magazine Reader
+10653,Taxonomy4 § Lifestyle § Nightlife Enthusiast
+10723,Taxonomy4 § Lifestyle § Art Enthusiast
+10739,Taxonomy5 § Big5extended § Self-Control § Impulsive
+10740,Taxonomy5 § Big5extended § Self-Control § Reserved
+10741,Taxonomy5 § Big5extended § Self-Control § Determined
+10742,Taxonomy5 § Big5extended § Self-Control § Relaxed
+10743,Taxonomy5 § Big5extended § Outlook § Realist
+10744,Taxonomy5 § Big5extended § Outlook § Emotional
+10745,Taxonomy5 § Big5extended § Outlook § Cool-headed
+10746,Taxonomy5 § Big5extended § Outlook § Optimist
+10747,Taxonomy5 § Big5extended § Action § Spontaneous
+10748,Taxonomy5 § Big5extended § Action § Influential
+10749,Taxonomy5 § Big5extended § Action § Laid-Back
+10750,Taxonomy5 § Big5extended § Action § Methodical
+10751,Taxonomy5 § Big5extended § Resilience § Headstrong
+10752,Taxonomy5 § Big5extended § Resilience § Sensitive
+10753,Taxonomy5 § Big5extended § Resilience § Practical
+10754,Taxonomy5 § Big5extended § Resilience § Engaged
+10755,Taxonomy5 § Big5extended § Process § Dreamer
+10756,Taxonomy5 § Big5extended § Process § Achiever
+10757,Taxonomy5 § Big5extended § Process § Drifter
+10758,Taxonomy5 § Big5extended § Process § Organiser
+10759,Taxonomy5 § Big5extended § Sociability § Leader
+10760,Taxonomy5 § Big5extended § Sociability § Giver
+10761,Taxonomy5 § Big5extended § Sociability § Master
+10762,Taxonomy5 § Big5extended § Sociability § Humble
+10763,Taxonomy5 § Big5extended § Character § Thoughtful
+10764,Taxonomy5 § Big5extended § Character § Helpful
+10765,Taxonomy5 § Big5extended § Character § Indulgent
+10766,Taxonomy5 § Big5extended § Character § Driven
+10767,Taxonomy5 § Big5extended § Attitude § Analytical
+10768,Taxonomy5 § Big5extended § Attitude § Progressive
+10769,Taxonomy5 § Big5extended § Attitude § Disciplined
+10770,Taxonomy5 § Big5extended § Attitude § Traditional
+10771,Taxonomy5 § Big5extended § Composure § Direct
+10772,Taxonomy5 § Big5extended § Composure § Perfectionist
+10773,Taxonomy5 § Big5extended § Composure § Easy-going
+10774,Taxonomy5 § Big5extended § Composure § Measured
+10782,Taxonomy4 § Finance § Online Banking
+10819,Taxonomy4 § Entertainment § Sport § Basketball
+10821,Taxonomy4 § Travel § Vacation § World Explorer Holiday Intender
+10822,Taxonomy4 § Travel § Vacation § Beach Holiday Intender
+10899,Taxonomy4 § Travel § Interest § Flights
+10900,Taxonomy4 § Travel § Interest § Train Vacation
+10901,Taxonomy4 § Travel § Flights § Vacation Intender § Coach Intender
+10902,Taxonomy4 § Travel § Interest § Road Trip
+11213,Taxonomy4 § Demographics § Career § Sales/Marketing
+11214,Taxonomy4 § Demographics § Career § Technology
+11215,Taxonomy4 § Demographics § Career § Service Sector or Hospitality
+11216,Taxonomy4 § Demographics § Career § Public Sector or Government
+11217,Taxonomy4 § Demographics § Career § Finance/Accounting
+11218,Taxonomy4 § Demographics § Career § Medical/Biotech
+11219,Taxonomy4 § Demographics § Career § Law
+11220,Taxonomy4 § Demographics § Career § Engineering
+11221,Taxonomy4 § Demographics § Career § Education
+11636,Taxonomy6 § MediaBig5 § MediaBig5Buckets § OpennessBuckets § High Openness
+11637,Taxonomy6 § MediaBig5 § MediaBig5Buckets § OpennessBuckets § Average Openness
+11639,Taxonomy6 § MediaBig5 § MediaBig5Buckets § OpennessBuckets § Low Openness
+11640,Taxonomy6 § MediaBig5 § MediaBig5Buckets § ConscientiousnessBuckets § High Conscientiousness
+11641,Taxonomy6 § MediaBig5 § MediaBig5Buckets § ConscientiousnessBuckets § Average Conscientiousness
+11642,Taxonomy6 § MediaBig5 § MediaBig5Buckets § ConscientiousnessBuckets § Low Conscientiousness
+11643,Taxonomy6 § MediaBig5 § MediaBig5Buckets § ExtraversionBuckets § Extravert
+11644,Taxonomy6 § MediaBig5 § MediaBig5Buckets § ExtraversionBuckets § Ambivert
+11645,Taxonomy6 § MediaBig5 § MediaBig5Buckets § ExtraversionBuckets § Introvert
+11646,Taxonomy6 § MediaBig5 § MediaBig5Buckets § AgreeablenessBuckets § High Agreeableness
+11647,Taxonomy6 § MediaBig5 § MediaBig5Buckets § AgreeablenessBuckets § Average Agreeableness
+11648,Taxonomy6 § MediaBig5 § MediaBig5Buckets § AgreeablenessBuckets § Low Agreeableness
+11649,Taxonomy6 § MediaBig5 § MediaBig5Buckets § NeuroticismBuckets § Emotionally Unstable
+11650,Taxonomy6 § MediaBig5 § MediaBig5Buckets § NeuroticismBuckets § Emotionally Balanced
+11651,Taxonomy6 § MediaBig5 § MediaBig5Buckets § NeuroticismBuckets § Emotionally Strong
+11662,Taxonomy6 § MediaBig5 § MediaBig5extended § MediaTaste § M-Blockbuster
+11663,Taxonomy6 § MediaBig5 § MediaBig5extended § MediaTaste § M-Pioneer
+11664,Taxonomy6 § MediaBig5 § MediaBig5extended § MediaTaste § M-Homebody
+11665,Taxonomy6 § MediaBig5 § MediaBig5extended § MediaTaste § M-Creator
+11666,Taxonomy6 § MediaBig5 § MediaBig5extended § MediaSelf-Control § M-Impulsive
+11667,Taxonomy6 § MediaBig5 § MediaBig5extended § MediaSelf-Control § M-Reserved
+11668,Taxonomy6 § MediaBig5 § MediaBig5extended § MediaSelf-Control § M-Determined
+11669,Taxonomy6 § MediaBig5 § MediaBig5extended § MediaSelf-Control § M-Relaxed
+11670,Taxonomy6 § MediaBig5 § MediaBig5extended § MediaOutlook § M-Realist
+11671,Taxonomy6 § MediaBig5 § MediaBig5extended § MediaOutlook § M-Emotional
+11672,Taxonomy6 § MediaBig5 § MediaBig5extended § MediaOutlook § M-Cool-headed
+11673,Taxonomy6 § MediaBig5 § MediaBig5extended § MediaOutlook § M-Optimist
+11674,Taxonomy6 § MediaBig5 § MediaBig5extended § MediaAction § M-Spontaneous
+11675,Taxonomy6 § MediaBig5 § MediaBig5extended § MediaAction § M-Influential
+11676,Taxonomy6 § MediaBig5 § MediaBig5extended § MediaAction § M-Laid-Back
+11677,Taxonomy6 § MediaBig5 § MediaBig5extended § MediaAction § M-Methodical
+11678,Taxonomy6 § MediaBig5 § MediaBig5extended § MediaResilience § M-Headstrong
+11679,Taxonomy6 § MediaBig5 § MediaBig5extended § MediaResilience § M-Sensitive
+11680,Taxonomy6 § MediaBig5 § MediaBig5extended § MediaResilience § M-Practical
+11681,Taxonomy6 § MediaBig5 § MediaBig5extended § MediaResilience § M-Engaged
+11682,Taxonomy6 § MediaBig5 § MediaBig5extended § MediaProcess § M-Dreamer
+11683,Taxonomy6 § MediaBig5 § MediaBig5extended § MediaProcess § M-Achiever
+11684,Taxonomy6 § MediaBig5 § MediaBig5extended § MediaProcess § M-Drifter
+11685,Taxonomy6 § MediaBig5 § MediaBig5extended § MediaProcess § M-Organiser
+11686,Taxonomy6 § MediaBig5 § MediaBig5extended § MediaSociability § M-Leader
+11687,Taxonomy6 § MediaBig5 § MediaBig5extended § MediaSociability § M-Giver
+11688,Taxonomy6 § MediaBig5 § MediaBig5extended § MediaSociability § M-Master
+11689,Taxonomy6 § MediaBig5 § MediaBig5extended § MediaSociability § M-Humble
+11690,Taxonomy6 § MediaBig5 § MediaBig5extended § MediaCharacter § M-Thoughtful
+11691,Taxonomy6 § MediaBig5 § MediaBig5extended § MediaCharacter § M-Helpful
+11692,Taxonomy6 § MediaBig5 § MediaBig5extended § MediaCharacter § M-Indulgent
+11693,Taxonomy6 § MediaBig5 § MediaBig5extended § MediaCharacter § M-Driven
+11694,Taxonomy6 § MediaBig5 § MediaBig5extended § MediaAttitude § M-Analytical
+11695,Taxonomy6 § MediaBig5 § MediaBig5extended § MediaAttitude § M-Progressive
+11696,Taxonomy6 § MediaBig5 § MediaBig5extended § MediaAttitude § M-Disciplined
+11697,Taxonomy6 § MediaBig5 § MediaBig5extended § MediaAttitude § M-Traditional
+11698,Taxonomy6 § MediaBig5 § MediaBig5extended § MediaComposure § M-Direct
+11699,Taxonomy6 § MediaBig5 § MediaBig5extended § MediaComposure § M-Perfectionist
+11700,Taxonomy6 § MediaBig5 § MediaBig5extended § MediaComposure § M-Easy-going
+11701,Taxonomy6 § MediaBig5 § MediaBig5extended § MediaComposure § M-Measured
+11821,Taxonomy6 § Personality § UK § General Interests § Sports Fanatics
+11822,Taxonomy6 § Personality § UK § General Interests § Music Fanatics
+11823,Taxonomy6 § Personality § UK § General Interests § Book Worms
+11824,Taxonomy6 § Personality § UK § General Interests § Gamers
+11825,Taxonomy6 § Personality § UK § General Interests § Family Focused
+11826,Taxonomy6 § Personality § UK § General Interests § Style Conscious
+11828,Taxonomy6 § Personality § UK § General Interests § Auto Enthusiasts
+11905,Taxonomy6 § Personality § UK § General Interests § Arts And Crafters
+11907,Taxonomy6 § Personality § UK § General Interests § Avant-Garde
+11923,Taxonomy6 § Personality § UK § General Interests § Gourmet Explorers
+12471,Taxonomy3 § Retired Segments § Internet and TV § TV § TV Channel § USA § HBO
+12886,Taxonomy5 § Editorial Segments § Commercial § commercial_end
+12887,Taxonomy5 § Editorial Segments § Commercial § commercial_start
+30000,Taxonomy4 § Demographics § Age § 18 to 24
+30001,Taxonomy4 § Demographics § Age § 25 to 34
+30002,Taxonomy4 § Demographics § Age § 35 to 44
+30003,Taxonomy4 § Demographics § Age § 45 to 54
+30004,Taxonomy4 § Demographics § Age § 55 to 64
+30006,Taxonomy4 § Entertainment § Interest § Gaming Console
+30007,Taxonomy4 § Entertainment § Video Game § Party Music and Dance Games
+30009,Taxonomy4 § Finance § Credit Card § User
+30010,Taxonomy4 § Finance § Interest § Insurance § Health Insurance
+30015,Taxonomy4 § Retail & Consumer Goods § Shopping Preference § Online Purchase
+30016,Taxonomy4 § Retail & Consumer Goods § Clothes § Fashion Style § Sporty
+30017,Taxonomy4 § Food & Drink § Food § Supermarket § Online
+30018,Taxonomy4 § Travel § Interest § Accommodation § Hotel
+30019,Taxonomy4 § Travel § Interest § Accommodation § Villa
+30020,Taxonomy4 § Entertainment § TV § Entertainment
+30021,Taxonomy4 § Entertainment § TV § Children and Family
+30022,Taxonomy4 § Entertainment § TV § Music
+30023,Taxonomy4 § Entertainment § TV § News & Current Affairs
+30024,Taxonomy4 § Entertainment § TV § Sports
+30025,Taxonomy4 § Travel § Interest § Holiday Type § Domestic
+30026,Taxonomy4 § Travel § Interest § Holiday Type § Foreign
+30030,Taxonomy4 § Travel § Interest § Holiday Type § Package
+30040,Taxonomy4 § Travel § Interest § Holiday Type § Winter Sports
+30041,Taxonomy4 § Travel § Interest § Holiday Type § Cruise
+30042,Taxonomy4 § Travel § Interest § Holiday Type § City Break
+30043,Taxonomy4 § Travel § Interest § Holiday Type § Spa Break
+30044,Taxonomy4 § Travel § Interest § Holiday Type § Theme Parks
+30046,Taxonomy4 § Retail & Consumer Goods § Electronics § Interest § Tablet
+30050,Taxonomy4 § Retail & Consumer Goods § Electronics § Interest § Computer
+30051,Taxonomy4 § Travel § Interest § Holiday Type § Camping
+30052,Taxonomy4 § Travel § Interest § Holiday Type § World Exploration
+30053,Taxonomy4 § Entertainment § Interest § Online Games
+30054,Taxonomy4 § Entertainment § Online § Streamed Media
+30055,Taxonomy4 § Retail & Consumer Goods § Electronics § Interest § Camera
+30056,Taxonomy4 § Retail & Consumer Goods § Electronics § Interest § TV
+30059,Taxonomy4 § Entertainment § TV § Drama and Soaps
+30060,Taxonomy4 § Travel § Interest § Holiday Type § Beach
+30061,Taxonomy4 § Lifestyle § Sport Enthusiast
+30062,Taxonomy4 § Travel § Budget § Very High
+30063,Taxonomy4 § Travel § Budget § High
+30064,Taxonomy4 § Travel § Budget § Good
+30065,Taxonomy4 § Travel § Budget § Average
+30066,Taxonomy4 § Travel § Budget § Low
+30067,Taxonomy4 § Brand § Computer § Apple
+30068,Taxonomy4 § Auto § Budget § Low
+30069,Taxonomy4 § Retail & Consumer Goods § Interest § Homewares
+30070,Taxonomy4 § Demographics § Age § Other Age
+30071,Taxonomy4 § Demographics § Age § 65+
+30087,Taxonomy5 § Editorial Segments § Youniverse § ARCH01
+30088,Taxonomy5 § Editorial Segments § Youniverse § ARCH02
+30089,Taxonomy5 § Editorial Segments § Youniverse § ARCH03
+30090,Taxonomy5 § Editorial Segments § Youniverse § ARCH04
+30091,Taxonomy5 § Editorial Segments § Youniverse § ARCH05
+30092,Taxonomy5 § Editorial Segments § Youniverse § ARCH06
+30093,Taxonomy5 § Editorial Segments § Youniverse § ARCH07
+30094,Taxonomy5 § Editorial Segments § Youniverse § ARCH08
+30095,Taxonomy5 § Editorial Segments § Youniverse § ARCH09
+30096,Taxonomy5 § Editorial Segments § Youniverse § ARCH10
+30097,Taxonomy5 § Editorial Segments § Youniverse § ARCH11
+30098,Taxonomy5 § Editorial Segments § Youniverse § ARCH12
+30099,Taxonomy5 § Editorial Segments § Youniverse § ARCH13
+30100,Taxonomy5 § Editorial Segments § Youniverse § ARCH14
+30101,Taxonomy5 § Editorial Segments § Youniverse § ARCH15
+30102,Taxonomy5 § Editorial Segments § Youniverse § ARCH16
+30234,Taxonomy6 § Extraversion - Redundant
+30235,Taxonomy6 § Openness - Redundant
+30236,Taxonomy6 § Conscientiousness - Redundant
+30237,Taxonomy6 § Agreeableness - Redundant
+30238,Taxonomy6 § Neuroticism - Redundant
+30242,Taxonomy4 § Demographics § Career § Manufacturing
+30243,Taxonomy4 § Demographics § Career § Real Estate
+30244,Taxonomy4 § Demographics § Career § Skilled Tradesmen
+30245,Taxonomy4 § Demographics § Career § Office/Clerical
+30246,Taxonomy4 § Demographics § Career § Emergency & Armed Services
+30253,Taxonomy4 § TV Audiences § Media Consumption § Online Video § Heavy
+30254,Taxonomy4 § TV Audiences § Media Consumption § Online Video § Medium
+30255,Taxonomy4 § TV Audiences § Media Consumption § Online Video § Light
+30257,Taxonomy4 § TV Audiences § Demographic Groups § Housewives with Kids
+30258,Taxonomy4 § TV Audiences § Demographic Groups § Adults 55+
+30259,Taxonomy4 § TV Audiences § Demographic Groups § Men 18 - 34
+30260,Taxonomy4 § TV Audiences § Demographic Groups § Women 18 - 34
+30398,Taxonomy4 § Demographics § Children § Children in Household
+30399,Taxonomy4 § Demographics § Children § No Children in Household
+30679,Taxonomy4 § TV Audiences § Demographic Groups § ABC1 Adults
+30680,Taxonomy4 § TV Audiences § Demographic Groups § Adults 18 - 34
+30681,Taxonomy4 § TV Audiences § Demographic Groups § Men 25 - 54
+30682,Taxonomy4 § TV Audiences § Demographic Groups § Women 24 - 54
+30683,Taxonomy4 § TV Audiences § Demographic Groups § Adults 25 - 54
+30684,Taxonomy4 § TV Audiences § Demographic Groups § ABC1 Men
+30685,Taxonomy4 § TV Audiences § Demographic Groups § ABC1 Women
+30686,Taxonomy4 § TV Audiences § Demographic Groups § C2D Adults
+30687,Taxonomy4 § TV Audiences § Demographic Groups § C2D Men
+30688,Taxonomy4 § TV Audiences § Demographic Groups § C2D Women
+30689,Taxonomy4 § TV Audiences § Demographic Groups § AB Men
+30690,Taxonomy4 § TV Audiences § Demographic Groups § AB Women
+30727,Taxonomy4 § Brand § Streamed Media § HBO GO
+30728,Taxonomy4 § Brand § Online Store § Vudu
+31165,Taxonomy6 § Personality § Openness § High
+31166,Taxonomy6 § Personality § Conscientiousness § High
+31167,Taxonomy6 § Personality § Extraversion § High
+31168,Taxonomy6 § Personality § Agreeableness § High
+31169,Taxonomy6 § Personality § Neuroticism § High
+31170,Taxonomy6 § Personality § Openness § Low
+31171,Taxonomy6 § Personality § Conscientiousness § Low
+31172,Taxonomy6 § Personality § Extraversion § Low
+31173,Taxonomy6 § Personality § Agreeableness § Low
+31174,Taxonomy6 § Personality § Neuroticism § Low
+31601,Taxonomy4 § Brand § Payment Provider § American Express
+31624,Taxonomy4 § Brand § Payment Provider § Mastercard
+31625,Taxonomy4 § Brand § Payment Provider § VISA
+31918,Taxonomy4 § Lifestyle § Political & Social Concerns § Child Welfare
+31919,Taxonomy4 § Lifestyle § Political & Social Concerns § Climate & Environment
+31920,Taxonomy4 § Lifestyle § Political & Social Concerns § Economy & Employment
+31923,Taxonomy4 § Lifestyle § Political & Social Concerns § Healthcare
+31924,Taxonomy4 § Lifestyle § Political & Social Concerns § Human Rights
+31990,Taxonomy6 § Personality § Political Affiliation (US) § Liberal
+31991,Taxonomy6 § Personality § Political Affiliation (US) § Conservative
+32024,Taxonomy4 § Brand § Social Media § Facebook
+32025,Taxonomy4 § Brand § Social Media § Flickr
+32026,Taxonomy4 § Brand § Social Media § Google+
+32027,Taxonomy4 § Brand § Social Media § Instagram
+32028,Taxonomy4 § Brand § Social Media § LinkedIn
+32029,Taxonomy4 § Brand § Social Media § Pinterest
+32030,Taxonomy4 § Brand § Social Media § Skype
+32031,Taxonomy4 § Brand § Social Media § Snapchat
+32032,Taxonomy4 § Brand § Social Media § Tinder
+32033,Taxonomy4 § Brand § Social Media § Tumblr
+32034,Taxonomy4 § Brand § Social Media § Twitter
+32036,Taxonomy4 § Brand § Social Media § WhatsApp
+32037,Taxonomy4 § Brand § Social Media § Youtube
+32138,Taxonomy4 § Lifestyle § Charities § Child Welfare
+32139,Taxonomy4 § Lifestyle § Charities § Climate
+32140,Taxonomy4 § Lifestyle § Charities § Economy
+32142,Taxonomy4 § Lifestyle § Charities § Elderly
+32143,Taxonomy4 § Lifestyle § Charities § Health
+32144,Taxonomy4 § Lifestyle § Charities § Human Rights
+32147,Taxonomy4 § Lifestyle § Charities § Poverty
+32184,Taxonomy4 § Entertainment § CallCredit UK § Interests § Pub
+32209,Taxonomy6 § Personality § Shopping Habits § Bargains & Sales
+32210,Taxonomy6 § Personality § Shopping Habits § Binge Shoppers
+32211,Taxonomy6 § Personality § Shopping Habits § Compulsive Buyers
+32212,Taxonomy6 § Personality § Shopping Habits § Impulsive Buyers
+32213,Taxonomy6 § Personality § Shopping Habits § Over Spenders
+32214,Taxonomy6 § Personality § Shopping Habits § Research Purchasers
+32215,Taxonomy6 § Personality § Shopping Habits § Reliability & Safety
+32216,Taxonomy6 § Personality § Shopping Habits § Targeted Purchasers
+32217,Taxonomy6 § Personality § Shopping Habits § Thrill Seekers
+32218,Taxonomy6 § Personality § Shopping Habits § Window Shoppers
+32220,Taxonomy6 § Personality § Shopping Preference § Antique
+32221,Taxonomy6 § Personality § Shopping Preference § Brand New & Contemporary
+32224,Taxonomy6 § Personality § Shopping Preference § Discount § Buy One Get One Free (50% Off)
+32226,Taxonomy6 § Personality § Shopping Preference § No Discount
+32229,Taxonomy6 § Personality § Shopping Preference § Discounted
+32230,Taxonomy6 § Personality § Shopping Habits § Early Adopter
+32231,Taxonomy6 § Personality § Shopping Preference § Eco Friendly
+32232,Taxonomy6 § Personality § Shopping Preference § Ethical
+32235,Taxonomy6 § Personality § Shopping Preference § Luxury
+32236,Taxonomy6 § Personality § Shopping Preference § Retro
+32237,Taxonomy6 § Personality § Shopping Preference § Safety Focused
+32238,Taxonomy6 § Personality § Shopping Preference § Second Hand
+32240,Taxonomy6 § Personality § Shopping Habits § Trendsetter
+32935,Taxonomy4 § Brand § Payment Provider § Apple Pay
+32936,Taxonomy4 § Brand § Payment Provider § PayPal
+33712,Taxonomy5 § Editorial Segments § Commercial § personality_end
+35958,Taxonomy4 § Demographics § Location § At work
+35959,Taxonomy4 § Demographics § Location § At home
+35960,Taxonomy4 § Demographics § Location § Out and about
+35961,Taxonomy4 § Demographics § Location § Rather not say
+38261,Taxonomy7 § Holiday § Impressing friends with 5 star hotels and resorts § Totally Agree
+38262,Taxonomy7 § Holiday § Impressing friends with 5 star hotels and resorts § Somewhat Agree
+38263,Taxonomy7 § Holiday § Impressing friends with 5 star hotels and resorts § Somewhat Disagree
+38264,Taxonomy7 § Holiday § Impressing friends with 5 star hotels and resorts § Totally Disagree
+38265,Taxonomy7 § Holiday § Relaxing and not dealing with worries or obligations § Totally Agree
+38266,Taxonomy7 § Holiday § Relaxing and not dealing with worries or obligations § Somewhat Agree
+38267,Taxonomy7 § Holiday § Relaxing and not dealing with worries or obligations § Somewhat Disagree
+38268,Taxonomy7 § Holiday § Relaxing and not dealing with worries or obligations § Totally Disagree
+38269,"Taxonomy7 § Holiday § Feeling discomfort with unfamiliar locations, foods, people, languages and a different way of doing things § Totally Agree"
+38270,"Taxonomy7 § Holiday § Feeling discomfort with unfamiliar locations, foods, people, languages and a different way of doing things § Somewhat Agree"
+38271,"Taxonomy7 § Holiday § Feeling discomfort with unfamiliar locations, foods, people, languages and a different way of doing things § Somewhat Disagree"
+38272,"Taxonomy7 § Holiday § Feeling discomfort with unfamiliar locations, foods, people, languages and a different way of doing things § Totally Disagree"
+38273,Taxonomy7 § Holiday § Feeling there is no reason to spend money to travel § Totally Agree
+38274,Taxonomy7 § Holiday § Feeling there is no reason to spend money to travel § Somewhat Agree
+38275,Taxonomy7 § Holiday § Feeling there is no reason to spend money to travel § Somewhat Disagree
+38276,Taxonomy7 § Holiday § Feeling there is no reason to spend money to travel § Totally Disagree
+38277,Taxonomy7 § Holiday § Taking time and not feeling rushed at a historic site or musuem § Totally Agree
+38278,Taxonomy7 § Holiday § Taking time and not feeling rushed at a historic site or musuem § Somewhat Agree
+38279,Taxonomy7 § Holiday § Taking time and not feeling rushed at a historic site or musuem § Somewhat Disagree
+38280,Taxonomy7 § Holiday § Taking time and not feeling rushed at a historic site or musuem § Totally Disagree
+38286,Taxonomy7 § Holiday § Avoiding uncomfortable rides even if it means missing something they wanted to visit § Totally Agree
+38287,Taxonomy7 § Holiday § Avoiding uncomfortable rides even if it means missing something they wanted to visit § Somewhat Agree
+38288,Taxonomy7 § Holiday § Avoiding uncomfortable rides even if it means missing something they wanted to visit § Somewhat Disagree
+38289,Taxonomy7 § Holiday § Avoiding uncomfortable rides even if it means missing something they wanted to visit § Totally Disagree
+38290,"Taxonomy7 § Holiday § Engaging in their customs, routines and rituals in their own environment § Totally Agree"
+38291,"Taxonomy7 § Holiday § Engaging in their customs, routines and rituals in their own environment § Somewhat Agree"
+38292,"Taxonomy7 § Holiday § Engaging in their customs, routines and rituals in their own environment § Somewhat Disagree"
+38293,"Taxonomy7 § Holiday § Engaging in their customs, routines and rituals in their own environment § Totally Disagree"
+38294,Taxonomy7 § Holiday § Living for travel § Totally Agree
+38295,Taxonomy7 § Holiday § Living for travel § Somewhat Agree
+38296,Taxonomy7 § Holiday § Living for travel § Somewhat Disagree
+38297,Taxonomy7 § Holiday § Living for travel § Totally Disagree
+38298,"Taxonomy7 § Holiday § Feeling safer if tour operator has organised the hotel, restaurants and sites § Totally Agree"
+38299,"Taxonomy7 § Holiday § Feeling safer if tour operator has organised the hotel, restaurants and sites § Somewhat Agree"
+38300,"Taxonomy7 § Holiday § Feeling safer if tour operator has organised the hotel, restaurants and sites § Somewhat Disagree"
+38301,"Taxonomy7 § Holiday § Feeling safer if tour operator has organised the hotel, restaurants and sites § Totally Disagree"
+38302,Taxonomy7 § Holiday § Being more indulgent and carefree on vacation § Totally Agree
+38303,Taxonomy7 § Holiday § Being more indulgent and carefree on vacation § Somewhat Agree
+38304,Taxonomy7 § Holiday § Being more indulgent and carefree on vacation § Somewhat Disagree
+38305,Taxonomy7 § Holiday § Being more indulgent and carefree on vacation § Totally Disagree
+38311,Taxonomy7 § Holiday § Having more interest in understanding how ancestors lived than experiencing culture as it exists now § Totally Agree
+38312,Taxonomy7 § Holiday § Having more interest in understanding how ancestors lived than experiencing culture as it exists now § Somewhat Agree
+38313,Taxonomy7 § Holiday § Having more interest in understanding how ancestors lived than experiencing culture as it exists now § Somewhat Disagree
+38314,Taxonomy7 § Holiday § Having more interest in understanding how ancestors lived than experiencing culture as it exists now § Totally Disagree
+38315,Taxonomy7 § Holiday § Wanting to get away from it all § Totally Agree
+38316,Taxonomy7 § Holiday § Wanting to get away from it all § Somewhat Agree
+38317,Taxonomy7 § Holiday § Wanting to get away from it all § Somewhat Disagree
+38318,Taxonomy7 § Holiday § Wanting to get away from it all § Totally Disagree
+38319,"Taxonomy7 § Holiday § Preferring to visit places with sheer beauty of nature, land, mountains, sea and wildlife § Totally Agree"
+38320,"Taxonomy7 § Holiday § Preferring to visit places with sheer beauty of nature, land, mountains, sea and wildlife § Somewhat Agree"
+38321,"Taxonomy7 § Holiday § Preferring to visit places with sheer beauty of nature, land, mountains, sea and wildlife § Somewhat Disagree"
+38322,"Taxonomy7 § Holiday § Preferring to visit places with sheer beauty of nature, land, mountains, sea and wildlife § Totally Disagree"
+38323,Taxonomy7 § Holiday § Feeling of having to travel abroad to find real culture § Totally Agree
+38324,Taxonomy7 § Holiday § Feeling of having to travel abroad to find real culture § Somewhat Agree
+38325,Taxonomy7 § Holiday § Feeling of having to travel abroad to find real culture § Somewhat Disagree
+38326,Taxonomy7 § Holiday § Feeling of having to travel abroad to find real culture § Totally Disagree
+38327,"Taxonomy7 § Holiday § Experiencing local foods, locations and architecture § Totally Agree"
+38328,"Taxonomy7 § Holiday § Experiencing local foods, locations and architecture § Somewhat Agree"
+38329,"Taxonomy7 § Holiday § Experiencing local foods, locations and architecture § Somewhat Disagree"
+38330,"Taxonomy7 § Holiday § Experiencing local foods, locations and architecture § Totally Disagree"
+38336,Taxonomy7 § Holiday § Feeling additional comfort when travelling with other people or a guide § Totally Agree
+38337,Taxonomy7 § Holiday § Feeling additional comfort when travelling with other people or a guide § Somewhat Agree
+38338,Taxonomy7 § Holiday § Feeling additional comfort when travelling with other people or a guide § Somewhat Disagree
+38339,Taxonomy7 § Holiday § Feeling additional comfort when travelling with other people or a guide § Totally Disagree
+38340,Taxonomy7 § Holiday § Feeling the best way to know a place is to walk around and do everyday things rather than the recommended tourist sites § Totally Agree
+38341,Taxonomy7 § Holiday § Feeling the best way to know a place is to walk around and do everyday things rather than the recommended tourist sites § Somewhat Agree
+38342,Taxonomy7 § Holiday § Feeling the best way to know a place is to walk around and do everyday things rather than the recommended tourist sites § Somewhat Disagree
+38343,Taxonomy7 § Holiday § Feeling the best way to know a place is to walk around and do everyday things rather than the recommended tourist sites § Totally Disagree
+38344,Taxonomy7 § Holiday § Importance of making family memories § Totally Agree
+38345,Taxonomy7 § Holiday § Importance of making family memories § Somewhat Agree
+38346,Taxonomy7 § Holiday § Importance of making family memories § Somewhat Disagree
+38347,Taxonomy7 § Holiday § Importance of making family memories § Totally Disagree
+38348,"Taxonomy7 § Holiday § Having to have the very best hotels, restaurants, shopping and service § Totally Agree"
+38349,"Taxonomy7 § Holiday § Having to have the very best hotels, restaurants, shopping and service § Somewhat Agree"
+38350,"Taxonomy7 § Holiday § Having to have the very best hotels, restaurants, shopping and service § Somewhat Disagree"
+38351,"Taxonomy7 § Holiday § Having to have the very best hotels, restaurants, shopping and service § Totally Disagree"
+38352,Taxonomy7 § Holiday § Wanting to come back from vacation feeling relaxed and refreshed § Totally Agree
+38353,Taxonomy7 § Holiday § Wanting to come back from vacation feeling relaxed and refreshed § Somewhat Agree
+38354,Taxonomy7 § Holiday § Wanting to come back from vacation feeling relaxed and refreshed § Somewhat Disagree
+38355,Taxonomy7 § Holiday § Wanting to come back from vacation feeling relaxed and refreshed § Totally Disagree
